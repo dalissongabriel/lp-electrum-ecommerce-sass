@@ -217,7 +217,7 @@ ul {
 }
 
 .deal-container {
-  background-image: url("../../../public/img/deal_headset.png");
+  background-image: url("img/deal_headset.png");
   background-repeat: no-repeat;
   background-position-x: 95%;
   background-position-y: 2rem;
@@ -481,15 +481,15 @@ ul {
 }
 
 #banner-1 {
-  background-image: url("../../../public/img/banner-1.jpg");
+  background-image: url("img/banner-1.jpg");
 }
 
 #banner-2 {
-  background-image: url("../../../public/img/banner-2.jpg");
+  background-image: url("img/banner-2.jpg");
 }
 
 #banner-3 {
-  background-image: url("../../../public/img/banner-3.jpg");
+  background-image: url("img/banner-3.jpg");
 }
 
 .btn {

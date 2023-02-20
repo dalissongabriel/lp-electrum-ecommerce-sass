@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "sass ./src/sass/app.sass:./public/css/app.css --watch"
+    "start": "sass ./src/sass/app.sass:./public/app.css --watch"
   },
   "keywords": [],
   "author": "",
